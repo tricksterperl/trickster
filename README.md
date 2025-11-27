@@ -1,6 +1,7 @@
 <div align="center">
 
-![Trickster Logo](https://github.com/tricksterperl/trickster/blob/main/assets/trickster.png?raw=true)
+<img src="assets/trickster.png" width="200">
+
 
 # 🎭 Trickster
 
