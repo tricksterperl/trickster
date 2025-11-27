@@ -315,16 +315,6 @@ Test coverage: **85%+**
 
 ---
 
-## Documentation
-
-- **[Getting Started Guide](https://trickster-perl.github.io/guide/)** – Learn the basics
-- **[API Reference](https://trickster-perl.github.io/api/)** – Complete API docs
-- **[Cookbook](https://trickster-perl.github.io/cookbook/)** – Common recipes
-- **[Examples](examples/)** – Working code examples
-- **[Migration Guide](https://trickster-perl.github.io/migration/)** – From other frameworks
-
----
-
 ## Examples
 
 Check out the `examples/` directory for complete working applications:
