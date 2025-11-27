@@ -1,0 +1,14 @@
+*.swp
+*.bak
+*~
+.DS_Store
+Makefile
+Makefile.old
+MYMETA.*
+blib/
+pm_to_blib
+*.tar.gz
+*.zip
+local/
+.carton/
+.vscode/
