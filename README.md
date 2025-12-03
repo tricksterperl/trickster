@@ -31,7 +31,7 @@ Trickster brings contemporary web framework design to Perl while respecting CPAN
 
 ## Installation
 
-### Via CPAN (to be uploaded soon)
+### Via CPAN (Recommended)
 
 ```bash
 cpanm Trickster
